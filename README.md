@@ -27,7 +27,7 @@
 <h3 align="center">I'm a Passionate
 <em><strong>Competitive Programmer</em></strong></em> & <em><strong>Full Stack Web Developer</em></strong> from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" width="35px" align="center"></h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/Inner/20.gif">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/SKGBntgm/2.gif">
 
 # <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
 
