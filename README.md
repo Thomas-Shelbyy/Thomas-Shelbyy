@@ -45,7 +45,7 @@
 
 <!-- About Me Section Ended-->
 
-<!--  Languages and Tools Section Started-->
+<!-- Languages and Tools Section Started-->
 
 # <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
 
