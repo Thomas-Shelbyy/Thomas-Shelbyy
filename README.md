@@ -25,7 +25,7 @@
 
 <h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm Thomas Shelby</h1>
 <h3 align="center">I'm a Passionate
-<em><strong>Competitive Programmer</em></strong></em> & <em><strong>Full Stack Web Developer</em></strong> from Chittagong,Bangladesh<img src="https://i.postimg.cc/SKGBntgm/2.gif" width="35px" align="center"></h3>
+<em><strong>Competitive Programmer</em></strong></em> & <em><strong>Full Stack Web Developer</em></strong> from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" width="35px" align="center"></h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/Inner/20.gif">
 
@@ -45,7 +45,7 @@
 
 <!-- About Me Section Ended-->
 
-<!-- Languages and Tools Section Started-->
+<!--  Languages and Tools Section Started-->
 
 # <img src="https://i.postimg.cc/kgnjkDYH/rocket.gif" width="60px" align="center"> Languages and Tools :
 
