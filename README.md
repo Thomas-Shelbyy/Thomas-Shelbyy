@@ -17,7 +17,7 @@
 
 <!-- Banner Started -->
 
-<img align="right" alt="Coding" width="100%" height="50%" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/Outer/11.gif">
+<img align="right" alt="Coding" width="100%" height="50px" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/Outer/11.gif">
 
 <!-- Banner Ended -->
 
