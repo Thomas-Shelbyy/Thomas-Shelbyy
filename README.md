@@ -17,7 +17,7 @@
 
 <!-- Banner Started -->
 
-<img align="right" alt="Coding" width="100%" height="40%" src="https://i.postimg.cc/KYsb8H9C/61.gif">
+<img align="right" alt="Coding" width="100%" height="40%" src="https://i.postimg.cc/FH5797f0/62.gif">
 
 <!-- Banner Ended -->
 
