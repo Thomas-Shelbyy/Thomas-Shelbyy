@@ -17,17 +17,17 @@
 
 <!-- Banner Started -->
 
-<img align="right" alt="Coding" width="100%" height="100%" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/Outer/5.gif">
+<img align="right" alt="Coding" width="100%" height="100%" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/Outer/6.gif">
 
 <!-- Banner Ended -->
 
 <!-- About Me Section Started-->
 
-<h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm Hafiz Sakib</h1>
+<h1 align="center">Hi <img src="https://i.postimg.cc/52gnS1gM/waving-hand.gif" width="35px">, I'm Thomas Shelby</h1>
 <h3 align="center">I'm a Passionate
 <em><strong>Competitive Programmer</em></strong></em> & <em><strong>Full Stack Web Developer</em></strong> from Chittagong,Bangladesh<img src="https://i.postimg.cc/1X7dTyX7/smiling-face-with-halo.gif" width="35px" align="center"></h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Hafiz-Sakib/Hafiz-Sakib/blob/main/assets/Inner/5.gif">
 
 # <img src="https://i.postimg.cc/J4nzTh7r/man-raising-hand.gif" style="padding-bottom: 10px" width="40px" align="center"> About Me
 
@@ -202,16 +202,3 @@
 <!-- Viewers And Followers Section Ended -->
 
 </br>
-
-<!-- Snake Eating Contribution Section Started -->
-
-<div align="center">
-  <h2><img src="https://i.postimg.cc/FFBBq02n/snake.gif" width="40px" align="center"> Snake eating my contribution <img src="https://i.postimg.cc/FFBBq02n/snake.gif" width="40px" align="center"></h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/Thomas-Shelbyy/Thomas-Shelbyy/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
-
-<!-- Snake Eating Contribution Section Ended -->
